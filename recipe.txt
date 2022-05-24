@@ -7,4 +7,7 @@ rice
 pasta
 chiken fry
 
+bean
+pizza
+
 thanks
