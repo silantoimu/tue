@@ -6,3 +6,5 @@ ugali
 rice
 pasta
 chiken fry
+
+thanks
